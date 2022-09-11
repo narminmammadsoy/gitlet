@@ -1,0 +1,48 @@
+WHAT should happend IN THE FILE SYSTEM?
+--
+When you add file a.txt
+
+Copy a.txt to 
+statging folder.
+
+When you commit
+
+Move a.text fto 
+Commits folder.
+
+WHen you checkout
+WHAT should happend IN THE FILE SYSTEM?
+--
+
+1.
+add a.txt
+copy file to:
+
+Staging/a.txt
+
+2.
+commit 'added a.txt'
+
+MOVE from staging to commit
+
+which is:
+
+copy file to:
+commitN/a.txt
+
+delete
+staging/a.txt
+
+PENDING (partner has done.)
+
+3.
+checkout a.txt
+
+copy file to:
+working/a.txt
+
+PENDING
+4.
+commit 
+compare the files and move to commit
+--
